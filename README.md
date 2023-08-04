@@ -1,1 +1,1 @@
-# recipt-CRUD-app
+# recipe-CRUD-app
